@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[toy:home|Door43 (toy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-toy|d43-toy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-toy/archive/master.zip|d43-toy.zip]]
+
+**Recent Changes**
+{{changes>ns = toy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/toy|Ethnologue data]]
+
